@@ -9,7 +9,6 @@ phases:
       - npm install
   build:
     commands:
-      - cd my-react-app
       - CI=false npm test -- --coverage
 artifacts:
   base-directory: my-react-app/build
