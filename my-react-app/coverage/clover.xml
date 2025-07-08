@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1752007511965" clover="3.2.0">
+  <project timestamp="1752007511965" name="All files">
+    <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1" elements="6" coveredelements="3" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="App.jsx" path="C:\Users\Gianluca\Documents\GitHub\MIT\ML-24-5\my-react-app\src\App.jsx">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
